@@ -32,3 +32,8 @@ Also upload the code that makes up your project to your repository.
 References and links
 
 Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+
+
+https://github.com/CharlesJGantt/Illuminate-NeoPixels-using-an-HC-SR04-Distance-Sensor-and-an-Arduino/blob/master/NeoPixels_HC-SR04.ino
+
+http://www.themakersworkbench.com/tutorial/using-ultrasonic-distance-sensor-illuminate-neopixels
